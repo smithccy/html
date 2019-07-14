@@ -114,15 +114,14 @@ p{font-style:normal;line-height:1.5}.TermsScreen__termsHeaderLastRevisionSection
 @media (min-width:320px) and (max-width:480px) {
 	.styles__sponsorshipsHeader____F8Vk {
 		min-height: 480px!important;
-
 		background-size: 165%
 	}
 }
 
 @media (min-width:481px) and (max-width:1024px) {
 	.styles__sponsorshipsHeader____F8Vk {
-		min-height: 645px!important;
-		background-size: 140%
+		min-height: 480px!important;
+		background-size: 165%
 	}
 }
 
