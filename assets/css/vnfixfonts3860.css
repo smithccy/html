@@ -1,0 +1,19 @@
+.gpbk {
+	font-family: 'GothamPro-Bold', sans-serif;
+	font-weight: 700;
+}
+
+.gpbd {
+	font-family: 'GothamPro-Bold', sans-serif;
+	font-weight: 700;
+}
+
+.gpm {
+	font-family: 'GothamPro-Medium', sans-serif;
+	font-weight: 600;
+}
+
+button, .button {
+	font-family: 'GothamPro-Bold', sans-serif!important;
+	font-weight: 700;
+}
